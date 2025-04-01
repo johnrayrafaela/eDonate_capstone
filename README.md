@@ -7,7 +7,6 @@
 ✅ **User Registration & Login** (with third-party authentication)  
 ✅ **Browse and Select Causes** – Find donation opportunities in your local community  
 ✅ **Seamless Donations** – Secure and simple donation process  
-✅ **Admin Dashboard** – Manage donation requests and community initiatives  
 ✅ **Real-time Updates** – Track donations and engagement  
 
 ## 🎨 Design & Tech Stack  
