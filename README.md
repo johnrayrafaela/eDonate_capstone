@@ -1,4 +1,4 @@
-# 🌿 eDonate – Empower Your Community Through Giving  
+# 🌿 eDonate – A Comprehensive Information System for Community-Based Donation and Support Management.  
 
 **eDonate** is a platform designed to make local donations easier and more impactful. Whether you want to donate funds, goods, or services, eDonate connects donors with community initiatives that need support.  
 
